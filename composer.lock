@@ -7764,7 +7764,7 @@
                     "role": "lead"
                 }
             ],
-            "description": "Collection of value objects that represent the PHP code units",
+            "description": "Collection of value objects that represent the PHP code unit",
             "homepage": "https://github.com/sebastianbergmann/code-unit",
             "support": {
                 "issues": "https://github.com/sebastianbergmann/code-unit/issues",
@@ -7955,7 +7955,7 @@
                     "role": "lead"
                 }
             ],
-            "description": "Library for calculating the complexity of PHP code units",
+            "description": "Library for calculating the complexity of PHP code unit",
             "homepage": "https://github.com/sebastianbergmann/complexity",
             "support": {
                 "issues": "https://github.com/sebastianbergmann/complexity/issues",
