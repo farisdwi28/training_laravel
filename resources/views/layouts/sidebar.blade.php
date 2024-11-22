@@ -20,7 +20,7 @@
                             </a>
                         </li>
                         <li class="flex justify-between items-center text-gray-400 hover:text-gray-300">
-                            <a href="/employee"
+                            <a href="/employees"
                                 class="flex items-center space-x-2 focus:outline-none focus:ring-2 focus:ring-white">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round"
